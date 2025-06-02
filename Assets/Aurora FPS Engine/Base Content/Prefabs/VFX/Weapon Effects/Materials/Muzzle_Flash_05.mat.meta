@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 79b0180c3258b9547a83ca272cf4ca3e
+timeCreated: 1494876945
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Prefabs/VFX/Weapon Effects/Materials/Muzzle_Flash_05.mat
+  uploadId: 680908

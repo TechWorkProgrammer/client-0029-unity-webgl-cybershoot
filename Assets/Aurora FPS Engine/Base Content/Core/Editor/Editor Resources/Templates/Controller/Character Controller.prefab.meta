@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 19418a54ef36886478b455cfdc73ce36
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Core/Editor/Editor Resources/Templates/Controller/Character
+    Controller.prefab
+  uploadId: 680908

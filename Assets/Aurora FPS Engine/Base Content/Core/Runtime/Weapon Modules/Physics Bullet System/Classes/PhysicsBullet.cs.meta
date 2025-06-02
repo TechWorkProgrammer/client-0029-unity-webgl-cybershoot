@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: b5df60709552e5c4aaca7a0555f9d7a2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Core/Runtime/Weapon Modules/Physics
+    Bullet System/Classes/PhysicsBullet.cs
+  uploadId: 680908

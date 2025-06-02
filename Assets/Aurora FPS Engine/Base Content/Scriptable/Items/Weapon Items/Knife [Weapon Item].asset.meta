@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 115f8a4a2d06889438dfdf0b43c72c37
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Scriptable/Items/Weapon Items/Knife
+    [Weapon Item].asset
+  uploadId: 680908

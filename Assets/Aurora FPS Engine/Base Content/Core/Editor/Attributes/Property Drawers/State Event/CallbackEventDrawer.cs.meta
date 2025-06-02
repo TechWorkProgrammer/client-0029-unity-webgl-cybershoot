@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 03b1cedcf735f94498e8ceabba6d394c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Core/Editor/Attributes/Property
+    Drawers/State Event/CallbackEventDrawer.cs
+  uploadId: 680908

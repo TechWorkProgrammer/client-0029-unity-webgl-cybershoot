@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 93c97da0a9a11174ab89575db81f7917
+timeCreated: 1471532950
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Prefabs/VFX/Misc Effects/Materials/Embers.mat
+  uploadId: 680908

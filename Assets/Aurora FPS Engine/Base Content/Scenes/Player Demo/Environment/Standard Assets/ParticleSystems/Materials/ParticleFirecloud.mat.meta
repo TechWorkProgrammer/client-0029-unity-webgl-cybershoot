@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 77d08210df254d845885518314593544
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Scenes/Player Demo/Environment/Standard
+    Assets/ParticleSystems/Materials/ParticleFirecloud.mat
+  uploadId: 680908

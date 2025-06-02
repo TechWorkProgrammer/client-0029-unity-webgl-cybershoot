@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d8f0099df63275647a8bcf646df1ca00
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Prefabs/VFX/Fire & Explosion Effects/Prefabs/DustExplosion.prefab
+  uploadId: 680908

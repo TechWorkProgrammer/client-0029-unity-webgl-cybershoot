@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 043ea683fc358e349afb7a48e3364d27
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Scriptable/Items/Bullet Items/AI
+    Bullet.asset
+  uploadId: 680908

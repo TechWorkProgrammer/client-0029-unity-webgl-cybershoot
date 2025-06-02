@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: b743dd5f981bb314bb81a9a8a7c7d58c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Core/Runtime/Weapon Modules/Weapon
+    Render Processing/Classes/WeaponRenderProcessing.cs
+  uploadId: 680908

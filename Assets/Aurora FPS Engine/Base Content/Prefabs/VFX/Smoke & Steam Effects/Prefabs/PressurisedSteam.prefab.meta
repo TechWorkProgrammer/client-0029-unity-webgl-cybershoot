@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 61bb62591466c3649bdf4905822d72f6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Prefabs/VFX/Smoke & Steam Effects/Prefabs/PressurisedSteam.prefab
+  uploadId: 680908

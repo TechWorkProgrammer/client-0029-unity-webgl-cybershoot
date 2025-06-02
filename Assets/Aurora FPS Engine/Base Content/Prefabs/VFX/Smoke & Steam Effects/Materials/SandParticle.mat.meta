@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e689f2433ec031e41ae61c69dfb6db02
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Prefabs/VFX/Smoke & Steam Effects/Materials/SandParticle.mat
+  uploadId: 680908

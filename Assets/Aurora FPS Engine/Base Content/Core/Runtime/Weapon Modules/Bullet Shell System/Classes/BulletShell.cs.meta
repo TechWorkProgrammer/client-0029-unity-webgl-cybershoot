@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 32e1a7e9b3fffa743b17e6006bd44f6e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Core/Runtime/Weapon Modules/Bullet
+    Shell System/Classes/BulletShell.cs
+  uploadId: 680908

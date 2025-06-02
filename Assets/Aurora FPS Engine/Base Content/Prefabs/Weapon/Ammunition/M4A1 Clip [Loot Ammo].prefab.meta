@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 448b2292392e5eb48b1b68c914cfa4f4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Prefabs/Weapon/Ammunition/M4A1
+    Clip [Loot Ammo].prefab
+  uploadId: 680908

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 77b2008fc6197f44a82570617d274355
+timeCreated: 1473762587
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Physics Materials/Surface/Metal.physicMaterial
+  uploadId: 680908

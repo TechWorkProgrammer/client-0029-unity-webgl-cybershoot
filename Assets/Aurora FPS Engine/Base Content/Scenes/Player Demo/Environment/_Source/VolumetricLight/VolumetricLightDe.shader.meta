@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4b3a931b4a161c349a30d0a31d1a92e0
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Scenes/Player Demo/Environment/_Source/VolumetricLight/VolumetricLightDe.shader
+  uploadId: 680908

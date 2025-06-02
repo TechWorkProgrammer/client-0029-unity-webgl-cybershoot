@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 79eda9cd741487c47bebe265f7647ac3
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Scenes/Player Demo/Environment/_Source/VolumetricLight/VolumetricLight.prefab
+  uploadId: 680908

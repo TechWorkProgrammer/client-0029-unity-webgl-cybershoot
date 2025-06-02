@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f9a2b524d9ca12e44ab1f711f1c3ae3c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Scriptable/Items/Bullet Items/Projectile.asset
+  uploadId: 680908

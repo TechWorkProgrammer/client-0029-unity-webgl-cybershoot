@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e16ff2cefe460264c827dda476529fef
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Animation/Animation Clips/First
+    Person Weapon/Shotgun/Shotgun Alternate Zoom Idle Override.anim
+  uploadId: 680908

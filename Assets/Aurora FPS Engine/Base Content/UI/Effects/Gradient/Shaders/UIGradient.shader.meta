@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 05a02edf6055f6f4b863aa36d3baf987
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/UI/Effects/Gradient/Shaders/UIGradient.shader
+  uploadId: 680908

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9aa18535636d11b49bb1ebfcff2e5880
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Prefabs/Weapon/Ammunition/M40A3
+    Clip [Loot Ammo].prefab
+  uploadId: 680908

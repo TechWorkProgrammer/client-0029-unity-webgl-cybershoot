@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: ed1b89d39279f564ea077ad8e46f3595
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Scenes/Player Demo/Environment/Standard
+    Assets/ParticleSystems/Materials/ParticleSteamMobile.mat
+  uploadId: 680908

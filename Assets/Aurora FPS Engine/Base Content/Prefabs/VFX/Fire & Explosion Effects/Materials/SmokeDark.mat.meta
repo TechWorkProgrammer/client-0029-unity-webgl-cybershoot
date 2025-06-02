@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 698a8134f4ebbbd4e848648685f68067
+timeCreated: 1471944184
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Prefabs/VFX/Fire & Explosion Effects/Materials/SmokeDark.mat
+  uploadId: 680908

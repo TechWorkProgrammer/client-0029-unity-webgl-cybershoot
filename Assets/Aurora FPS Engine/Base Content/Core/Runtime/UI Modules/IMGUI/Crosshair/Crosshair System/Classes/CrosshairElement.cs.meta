@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 00a992bd7d29274439782a2f8edbae61
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Core/Runtime/UI Modules/IMGUI/Crosshair/Crosshair
+    System/Classes/CrosshairElement.cs
+  uploadId: 680908

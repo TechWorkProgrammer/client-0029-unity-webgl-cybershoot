@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b1d970d3030455a409e0695e742e06aa
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Prefabs/Weapon/Loot Weapons/Pistol
+    [Loot Weapon].prefab
+  uploadId: 680908

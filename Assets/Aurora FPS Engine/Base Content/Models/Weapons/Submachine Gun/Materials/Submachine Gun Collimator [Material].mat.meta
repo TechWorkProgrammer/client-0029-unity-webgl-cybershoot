@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 23fb67005cbdd2547afaf44814960e6c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Models/Weapons/Submachine Gun/Materials/Submachine
+    Gun Collimator [Material].mat
+  uploadId: 680908

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 079e0f3711981f140ae5a700b0e1e2f9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Animation/Animation Clips/First
+    Person Weapon/Machine Gun/Machine Gun Zoom Move Override.anim
+  uploadId: 680908

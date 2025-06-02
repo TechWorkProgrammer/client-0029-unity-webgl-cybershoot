@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 889640f68cd52f6428f96b91884debf9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Core/Runtime/System Modules/Inventory
+    System/Equippable Object Identifier/Classes/EquippableObjectIdentifier.cs
+  uploadId: 680908

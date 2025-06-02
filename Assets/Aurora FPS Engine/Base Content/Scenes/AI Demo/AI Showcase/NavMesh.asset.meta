@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d52d8d41281bdc9439f2d7cd2799bbef
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 23800000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Scenes/AI Demo/AI Showcase/NavMesh.asset
+  uploadId: 680908

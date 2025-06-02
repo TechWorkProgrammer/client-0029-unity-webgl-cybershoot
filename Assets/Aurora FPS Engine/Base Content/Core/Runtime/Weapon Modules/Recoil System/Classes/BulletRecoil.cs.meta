@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 20757ddf0c2cc944baa5c4c9cdfa996f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Core/Runtime/Weapon Modules/Recoil
+    System/Classes/BulletRecoil.cs
+  uploadId: 680908

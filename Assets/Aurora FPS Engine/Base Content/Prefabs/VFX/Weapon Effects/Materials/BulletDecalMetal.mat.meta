@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 094e76e620df5714eb3946120657e1f6
+timeCreated: 1473687979
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Prefabs/VFX/Weapon Effects/Materials/BulletDecalMetal.mat
+  uploadId: 680908

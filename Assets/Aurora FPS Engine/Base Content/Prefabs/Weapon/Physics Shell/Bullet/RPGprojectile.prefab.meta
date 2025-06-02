@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3d27f659932c9d646ba94ddd4e5e30ac
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Prefabs/Weapon/Physics Shell/Bullet/RPGprojectile.prefab
+  uploadId: 680908

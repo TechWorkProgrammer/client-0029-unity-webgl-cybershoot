@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a8f0337405e2040439238fde08d850f1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Prefabs/Weapon/Physics Shell/Bullet/Shotgun
+    Bullet.prefab
+  uploadId: 680908

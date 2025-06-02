@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6f3ee23817d2bd74681209e519f72618
+timeCreated: 1473858336
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Prefabs/VFX/Goop Effects/Materials/GoopSplashParticle.mat
+  uploadId: 680908

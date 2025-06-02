@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: c8c60a9b97471284fa182a44e864cb88
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Core/Runtime/AI Modules/Behaviour
+    Tree/Devided Modules/Node/Classes/Action Nodes/CompareNode.cs
+  uploadId: 680908

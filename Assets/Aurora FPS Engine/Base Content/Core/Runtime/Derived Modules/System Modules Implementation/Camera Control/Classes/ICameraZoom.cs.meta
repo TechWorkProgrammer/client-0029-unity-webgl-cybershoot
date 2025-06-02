@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 9e939c754d3cb1d47b952694ec3bce30
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Core/Runtime/Derived Modules/System
+    Modules Implementation/Camera Control/Classes/ICameraZoom.cs
+  uploadId: 680908

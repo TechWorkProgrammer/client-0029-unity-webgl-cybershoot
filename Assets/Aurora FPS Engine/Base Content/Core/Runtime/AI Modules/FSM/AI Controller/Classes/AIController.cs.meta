@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 7263753ed1cb3f44fb7ae56256ce048c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Core/Runtime/AI Modules/FSM/AI
+    Controller/Classes/AIController.cs
+  uploadId: 680908

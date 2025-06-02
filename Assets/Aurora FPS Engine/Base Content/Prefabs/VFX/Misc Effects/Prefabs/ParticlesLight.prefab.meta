@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 61a6b3a108030e54ba372fe7097916d0
+timeCreated: 1472572134
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Prefabs/VFX/Misc Effects/Prefabs/ParticlesLight.prefab
+  uploadId: 680908

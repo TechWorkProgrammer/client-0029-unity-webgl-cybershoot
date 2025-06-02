@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 96730f8640590934eacb6f860058e7f9
+timeCreated: 1472572311
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Prefabs/VFX/Fire & Explosion Effects/Prefabs/PlasmaExplosionEffect.prefab
+  uploadId: 680908

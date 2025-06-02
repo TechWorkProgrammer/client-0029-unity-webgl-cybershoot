@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 795ab1f41a8fd4142859110cee203fd7
+timeCreated: 1474460943
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Prefabs/VFX/Misc Effects/Materials/SandSwirls.mat
+  uploadId: 680908

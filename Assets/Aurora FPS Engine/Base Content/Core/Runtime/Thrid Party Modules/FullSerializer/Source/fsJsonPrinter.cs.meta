@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f8ceb1d1f25615e44bc62d88d230a1cd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Core/Runtime/Thrid Party Modules/FullSerializer/Source/fsJsonPrinter.cs
+  uploadId: 680908

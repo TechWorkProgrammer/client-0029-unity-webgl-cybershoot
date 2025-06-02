@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 90c66d0df6e07ac4db4abc2149263df8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Prefabs/Weapon/First Person Weapons/Knife
+    [FP Weapon].prefab
+  uploadId: 680908

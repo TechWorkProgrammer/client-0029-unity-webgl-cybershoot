@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0d1467453af858a4f8e316a2feddcc0a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Scenes/Player Demo/Environment/_Source/Meshes/Materials/Wood3.mat
+  uploadId: 680908

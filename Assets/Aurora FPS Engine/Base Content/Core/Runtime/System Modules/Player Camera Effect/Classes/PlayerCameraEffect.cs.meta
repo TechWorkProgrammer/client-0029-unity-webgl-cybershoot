@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 4b2273dbe2588b343a6972b984d2f60d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Core/Runtime/System Modules/Player
+    Camera Effect/Classes/PlayerCameraEffect.cs
+  uploadId: 680908

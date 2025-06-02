@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9b6bc68cfee844654bb02e67cdb8b404
+timeCreated: 1485887979
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/UI/Sprites/Weapon/Icons/Readme.txt
+  uploadId: 680908

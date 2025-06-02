@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9e03786a9517b604d8e930182607a128
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Prefabs/VFX/Smoke & Steam Effects/Prefabs/DustStorm.prefab
+  uploadId: 680908

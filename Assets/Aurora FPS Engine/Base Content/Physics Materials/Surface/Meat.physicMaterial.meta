@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8843da9524c3cec4eaebc0bf81cc4e1a
+timeCreated: 1473933475
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Physics Materials/Surface/Meat.physicMaterial
+  uploadId: 680908

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 9e89d75539bf55e4cbe543d888beae32
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Core/Runtime/AI Modules/FSM/Vision/Field
+    Of View/Classes/FieldOfView.cs
+  uploadId: 680908

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: a8834f2658c10ad42891284717a5d0b1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Core/Runtime/UI Modules/UI Elements/Managers/Canvas
+    Manager/Classes/CanvasProperty.cs
+  uploadId: 680908

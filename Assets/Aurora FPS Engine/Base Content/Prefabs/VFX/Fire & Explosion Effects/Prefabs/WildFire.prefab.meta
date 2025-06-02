@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f293a2dcc753a4a489fefe7f8f312d69
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Prefabs/VFX/Fire & Explosion Effects/Prefabs/WildFire.prefab
+  uploadId: 680908

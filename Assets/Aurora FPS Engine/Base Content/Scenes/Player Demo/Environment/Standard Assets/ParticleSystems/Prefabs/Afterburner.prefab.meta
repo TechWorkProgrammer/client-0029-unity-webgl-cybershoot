@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: d8c41be67f41aa545ae053b0b927f821
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Scenes/Player Demo/Environment/Standard
+    Assets/ParticleSystems/Prefabs/Afterburner.prefab
+  uploadId: 680908

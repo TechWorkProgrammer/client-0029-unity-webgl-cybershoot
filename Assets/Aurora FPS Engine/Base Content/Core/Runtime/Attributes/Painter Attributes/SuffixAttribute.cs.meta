@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: a58e89cd833613e4aaca6b0c820dcb31
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Core/Runtime/Attributes/Painter
+    Attributes/SuffixAttribute.cs
+  uploadId: 680908

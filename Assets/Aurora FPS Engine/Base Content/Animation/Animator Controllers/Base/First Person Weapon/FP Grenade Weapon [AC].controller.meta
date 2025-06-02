@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1de18bccc5ef1384e857e4cbeb17aeb9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Animation/Animator Controllers/Base/First
+    Person Weapon/FP Grenade Weapon [AC].controller
+  uploadId: 680908

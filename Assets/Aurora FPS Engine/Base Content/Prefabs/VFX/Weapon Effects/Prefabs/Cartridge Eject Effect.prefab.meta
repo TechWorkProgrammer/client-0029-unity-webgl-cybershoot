@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7ca96822084510147adb2aea03d45e3b
+timeCreated: 1473770355
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Prefabs/VFX/Weapon Effects/Prefabs/Cartridge
+    Eject Effect.prefab
+  uploadId: 680908

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e66cffbbadfbe4a46b92e0dd770af374
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Models/Weapons/Sniper Rifle/Materials/Sniper
+    Rifle Wood [Material].mat
+  uploadId: 680908

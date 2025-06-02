@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f06455b167e1b0b428c9af62d7aa6832
+timeCreated: 1472824610
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Prefabs/VFX/Smoke & Steam Effects/Materials/SmokeLight.mat
+  uploadId: 680908

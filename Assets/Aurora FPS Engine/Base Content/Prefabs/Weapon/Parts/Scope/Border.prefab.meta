@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c12f7c790c350ac4397f84863f19b053
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Prefabs/Weapon/Parts/Scope/Border.prefab
+  uploadId: 680908

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c5febdd93ab44d640b3eb37b768360bb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Prefabs/VFX/Misc Effects/Prefabs/Respawn.prefab
+  uploadId: 680908

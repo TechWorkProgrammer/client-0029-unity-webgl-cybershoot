@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bd8c234372a08af408b82538314378fe
+timeCreated: 1471521655
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Prefabs/VFX/Fire & Explosion Effects/Materials/Flame02.mat
+  uploadId: 680908

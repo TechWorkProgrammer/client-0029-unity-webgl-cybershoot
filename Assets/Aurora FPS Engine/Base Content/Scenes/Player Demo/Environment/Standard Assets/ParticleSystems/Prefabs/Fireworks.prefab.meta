@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 180149b1a35449044a27b451e816d2de
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Scenes/Player Demo/Environment/Standard
+    Assets/ParticleSystems/Prefabs/Fireworks.prefab
+  uploadId: 680908

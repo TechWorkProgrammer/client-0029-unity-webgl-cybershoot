@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 66b9df13943b6f64daf8071129f627f5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Core/Runtime/Weapon Modules/Weapon
+    Effect/Attributes/WeaponEffectMenu.cs
+  uploadId: 680908

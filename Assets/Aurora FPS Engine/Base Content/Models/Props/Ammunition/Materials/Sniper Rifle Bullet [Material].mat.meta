@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 871231dd0ad021144970d772b7b7a487
+timeCreated: 1471370653
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Models/Props/Ammunition/Materials/Sniper
+    Rifle Bullet [Material].mat
+  uploadId: 680908

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 923458b067cf4e948a8271cbcae58770
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Core/Editor/AI Modules/Behaviour
+    Tree/Utilities/Classes/BehaviourTreeUtilities.cs
+  uploadId: 680908

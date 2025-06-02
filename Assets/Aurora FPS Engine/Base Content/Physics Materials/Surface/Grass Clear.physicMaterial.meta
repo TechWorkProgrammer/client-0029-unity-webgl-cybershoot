@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 12c1c735813808c41b09a538a04d6e25
+timeCreated: 1493581491
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Physics Materials/Surface/Grass
+    Clear.physicMaterial
+  uploadId: 680908

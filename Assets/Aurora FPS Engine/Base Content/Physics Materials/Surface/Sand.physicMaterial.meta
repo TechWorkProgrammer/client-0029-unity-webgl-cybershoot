@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ee4bb0d1ce749cf44ac6dc2a56ad59f6
+timeCreated: 1473762558
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Physics Materials/Surface/Sand.physicMaterial
+  uploadId: 680908

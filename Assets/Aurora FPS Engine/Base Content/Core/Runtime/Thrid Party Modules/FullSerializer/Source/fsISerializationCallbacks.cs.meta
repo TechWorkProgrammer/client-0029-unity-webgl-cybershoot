@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: ff5a6a4a9df9cfc43b04b16bbc045902
+timeCreated: 1451205262
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Core/Runtime/Thrid Party Modules/FullSerializer/Source/fsISerializationCallbacks.cs
+  uploadId: 680908

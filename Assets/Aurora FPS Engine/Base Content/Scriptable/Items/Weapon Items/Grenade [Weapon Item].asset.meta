@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c13c9db8fe163604c964bd99e0cfe14e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Scriptable/Items/Weapon Items/Grenade
+    [Weapon Item].asset
+  uploadId: 680908

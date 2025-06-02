@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: cad6601e4f8d1274fb7a7ce5f6e428dc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Core/Editor/Attributes/Source
+    Modules/Drawer/Interfaces/IPropertyDrawerHeight.cs
+  uploadId: 680908

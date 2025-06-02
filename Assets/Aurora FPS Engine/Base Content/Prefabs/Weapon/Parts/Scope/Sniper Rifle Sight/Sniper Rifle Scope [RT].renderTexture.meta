@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9c7bdf15dfbd12640becca913ac8ebfb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Prefabs/Weapon/Parts/Scope/Sniper
+    Rifle Sight/Sniper Rifle Scope [RT].renderTexture
+  uploadId: 680908

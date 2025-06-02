@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: acb28d553a5d14fc682eafe2ec7828d1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Core/Runtime/Derived Modules/System
+    Modules Implementation/Health System/Classes/FPHealth.cs
+  uploadId: 680908

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 4d11986105932466589248dc98efad33
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Core/Runtime/Derived Modules/Weapon
+    Modules Implementation/Reload Systems/Classes/WeaponSequentialReloadSystem.cs
+  uploadId: 680908

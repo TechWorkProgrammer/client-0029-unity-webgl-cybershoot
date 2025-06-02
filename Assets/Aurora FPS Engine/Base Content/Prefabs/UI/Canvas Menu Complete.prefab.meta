@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9c155298a3e86c9439bd259511e4bebf
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Prefabs/UI/Canvas Menu Complete.prefab
+  uploadId: 680908

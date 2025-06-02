@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f6a1776d52b856744ba06793c78b26fa
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Prefabs/VFX/Magic Effects/Shaders/Ice.shader
+  uploadId: 680908

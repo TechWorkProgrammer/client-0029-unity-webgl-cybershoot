@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 59bb158fcea79411fb807c94aa7c34c5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Core/Runtime/System Modules/Pool
+    System/Classes/PoolContainer.cs
+  uploadId: 680908

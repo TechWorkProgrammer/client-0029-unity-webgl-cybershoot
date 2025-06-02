@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 5102afe63fc7c0c4d9d6bdcbbef40708
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Core/Runtime/AI Modules/Behaviour
+    Tree/Devided Modules/Variables/BoolVariable.cs
+  uploadId: 680908

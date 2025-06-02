@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 3fc0fb6846c4d1246b7b4301bf0fe2f7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Core/Runtime/System Modules/Player
+    Camera Effect/Classes/PlayerCameraHingeEffect.cs
+  uploadId: 680908

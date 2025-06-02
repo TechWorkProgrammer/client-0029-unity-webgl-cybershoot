@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: e1bd5401d36592148955c64bd6f39ec0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Core/Runtime/System Modules/Controller
+    Modules/Character Controller/Interfaces/IController.cs
+  uploadId: 680908

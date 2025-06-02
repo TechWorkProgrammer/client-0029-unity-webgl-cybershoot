@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e266b5ead4a37ff47bf1edc4fc774f83
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 22100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Animation/Animator Controllers/Overrided/Weapon/FP
+    M91 [OAC].overrideController
+  uploadId: 680908

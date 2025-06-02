@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 0aa383b216ea1e14685a5a2fc18e1a33
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Core/Runtime/Core Modules/Value
+    Types/Animator/AnimatorParameter.cs
+  uploadId: 680908

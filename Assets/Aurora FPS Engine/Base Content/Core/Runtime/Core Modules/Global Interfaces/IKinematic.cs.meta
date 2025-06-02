@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: b7d69891d088a594a9337411816b7e31
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Core/Runtime/Core Modules/Global
+    Interfaces/IKinematic.cs
+  uploadId: 680908

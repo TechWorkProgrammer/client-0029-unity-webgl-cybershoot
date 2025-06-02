@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 26d786e00c1761748a3646163c9656f1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Core/Runtime/Weapon Modules/Creation
+    Wizard/Classes/WeaponTemplatePivots.cs
+  uploadId: 680908

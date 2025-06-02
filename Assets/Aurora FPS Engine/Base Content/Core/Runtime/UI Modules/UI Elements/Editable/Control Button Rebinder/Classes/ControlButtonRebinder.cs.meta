@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 74a36a85c54b59249b87158197c536ec
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Core/Runtime/UI Modules/UI Elements/Editable/Control
+    Button Rebinder/Classes/ControlButtonRebinder.cs
+  uploadId: 680908

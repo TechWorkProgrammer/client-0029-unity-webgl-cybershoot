@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3d19250bdd4e0df4c8da855e85a8d70b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Prefabs/VFX/Water Effects/Prefabs/Shower.prefab
+  uploadId: 680908

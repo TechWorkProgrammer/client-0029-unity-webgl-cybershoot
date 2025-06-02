@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0491051b82b09be4eaa3b2224971acc7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Prefabs/VFX/Water Effects/Materials/Splash.mat
+  uploadId: 680908

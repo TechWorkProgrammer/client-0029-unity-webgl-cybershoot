@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: ca45ab54dcc9fa645bad3df082c83ad0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Core/Runtime/System Modules/Controller
+    Systems/Actor Controller/Interfaces/IControllerCrouch.cs
+  uploadId: 680908

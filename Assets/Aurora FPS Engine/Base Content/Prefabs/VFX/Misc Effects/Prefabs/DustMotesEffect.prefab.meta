@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5ca4c580b3888314581688fa46fb142d
+timeCreated: 1473946479
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Prefabs/VFX/Misc Effects/Prefabs/DustMotesEffect.prefab
+  uploadId: 680908

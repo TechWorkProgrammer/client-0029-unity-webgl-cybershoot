@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0668b586a1c1cf84bbea18993f2096c7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Prefabs/Weapon/Ammunition/Grenade
+    [Loot Ammo].prefab
+  uploadId: 680908

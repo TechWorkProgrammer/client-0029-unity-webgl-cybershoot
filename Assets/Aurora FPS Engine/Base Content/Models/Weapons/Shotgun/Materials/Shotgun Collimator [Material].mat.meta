@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 01d6e897dd903b3439ddcc74bdcea80e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Models/Weapons/Shotgun/Materials/Shotgun
+    Collimator [Material].mat
+  uploadId: 680908

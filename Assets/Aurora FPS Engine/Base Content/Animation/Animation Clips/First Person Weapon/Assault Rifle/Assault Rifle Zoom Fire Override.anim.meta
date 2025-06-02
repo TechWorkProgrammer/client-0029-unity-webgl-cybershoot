@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 79b4c343196b3ff468ed20e59a50b59f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Animation/Animation Clips/First
+    Person Weapon/Assault Rifle/Assault Rifle Zoom Fire Override.anim
+  uploadId: 680908

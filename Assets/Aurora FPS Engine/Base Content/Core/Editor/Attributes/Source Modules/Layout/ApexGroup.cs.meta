@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 69e1f08d273c74d40934df70af8b3969
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Core/Editor/Attributes/Source
+    Modules/Layout/ApexGroup.cs
+  uploadId: 680908

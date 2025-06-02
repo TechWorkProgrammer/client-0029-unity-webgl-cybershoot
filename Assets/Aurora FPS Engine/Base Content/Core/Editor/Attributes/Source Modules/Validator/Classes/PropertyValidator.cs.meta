@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: f99d91f1ac6fbe041a32c32432d8b1bd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Core/Editor/Attributes/Source
+    Modules/Validator/Classes/PropertyValidator.cs
+  uploadId: 680908

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 75b059b56eb84d04eab1b86b3db3314a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Core/Runtime/UI Modules/UI Elements/Editable/Slider
+    Field/Classes/SliderField.cs
+  uploadId: 680908

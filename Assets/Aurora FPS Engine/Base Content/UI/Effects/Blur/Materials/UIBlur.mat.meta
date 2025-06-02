@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7f82911f0e4de0f46ad44afaee2d551b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/UI/Effects/Blur/Materials/UIBlur.mat
+  uploadId: 680908

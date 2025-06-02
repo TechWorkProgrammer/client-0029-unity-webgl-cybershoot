@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 055b7e39b25821c49b204e7002d45d87
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Scenes/Player Demo/Environment/_Source/Meshes/Materials/DecalWhite_Draw.mat
+  uploadId: 680908

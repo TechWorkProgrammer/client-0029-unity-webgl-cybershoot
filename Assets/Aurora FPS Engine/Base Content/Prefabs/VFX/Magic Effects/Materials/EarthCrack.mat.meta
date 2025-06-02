@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1f6abb4fa65207247b856825feae3e68
+timeCreated: 1475490649
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Prefabs/VFX/Magic Effects/Materials/EarthCrack.mat
+  uploadId: 680908

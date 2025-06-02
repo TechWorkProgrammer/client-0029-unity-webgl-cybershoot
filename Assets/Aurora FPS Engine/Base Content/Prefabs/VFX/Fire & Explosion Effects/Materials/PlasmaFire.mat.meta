@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b5387d3c2ba98fc44a0f5744f94ce48c
+timeCreated: 1473155171
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Prefabs/VFX/Fire & Explosion Effects/Materials/PlasmaFire.mat
+  uploadId: 680908

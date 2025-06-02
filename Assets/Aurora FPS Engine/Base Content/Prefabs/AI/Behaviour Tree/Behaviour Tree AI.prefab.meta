@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 30fa9721790d9cc4da86c5e86e00ec78
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Prefabs/AI/Behaviour Tree/Behaviour
+    Tree AI.prefab
+  uploadId: 680908

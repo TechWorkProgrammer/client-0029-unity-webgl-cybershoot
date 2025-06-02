@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 4c886bb8a09980943a31c0d736326e2d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Core/Runtime/AI Modules/FSM/Yield
+    Instructions/WaitForReach.cs
+  uploadId: 680908

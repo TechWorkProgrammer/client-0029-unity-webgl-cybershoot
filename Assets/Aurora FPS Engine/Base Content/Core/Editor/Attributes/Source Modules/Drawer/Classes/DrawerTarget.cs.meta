@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: ca9fa5712df934c42b7ffb9725c3fc4e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Core/Editor/Attributes/Source
+    Modules/Drawer/Classes/DrawerTarget.cs
+  uploadId: 680908

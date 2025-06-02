@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: a83a465810460f34b9433c377cd7e070
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Core/Runtime/Derived Modules/System
+    Modules Implementation/Camera Control/Classes/CameraControl.cs
+  uploadId: 680908

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: c471a6ad53d7c0a46a8aed47c23f5322
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Core/Runtime/System Modules/Dynamic
+    Ragdoll System/Interfaces/IDynamicRagdoll.cs
+  uploadId: 680908

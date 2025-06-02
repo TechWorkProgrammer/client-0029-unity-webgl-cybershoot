@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fd524560038787c468013058a748cc16
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Prefabs/Weapon/Bullet Shell/Rifle
+    Bullet Shell.prefab
+  uploadId: 680908

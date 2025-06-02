@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: af834c3dcf42757428166040de0b92a2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 31900000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Animation/Animator Controller
+    Masks/Upper Body Actions Mask.mask
+  uploadId: 680908

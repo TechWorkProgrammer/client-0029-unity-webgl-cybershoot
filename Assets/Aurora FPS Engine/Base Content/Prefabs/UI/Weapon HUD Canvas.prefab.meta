@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 53ea973b78d28934ba59cf76b4a49ee7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Prefabs/UI/Weapon HUD Canvas.prefab
+  uploadId: 680908

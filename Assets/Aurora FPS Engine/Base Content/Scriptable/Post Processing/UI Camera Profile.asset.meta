@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4da2b329255fd844ea14f4abf4e62049
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Scriptable/Post Processing/UI
+    Camera Profile.asset
+  uploadId: 680908

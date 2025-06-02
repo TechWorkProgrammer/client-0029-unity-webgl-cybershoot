@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5372c143fb9d8f046a6632b14eac0a42
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Prefabs/VFX/Weapon Effects/Prefabs/Muzzle
+    Flash 3D.prefab
+  uploadId: 680908

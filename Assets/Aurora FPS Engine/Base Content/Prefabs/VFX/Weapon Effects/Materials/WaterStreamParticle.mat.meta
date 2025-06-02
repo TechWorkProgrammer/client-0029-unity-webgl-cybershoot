@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8ea6ed53aae46fe4e83d154e73aed27e
+timeCreated: 1474452197
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 165863
+  packageName: Aurora FPS Engine
+  packageVersion: 2.5.6
+  assetPath: Assets/Aurora FPS Engine/Base Content/Prefabs/VFX/Weapon Effects/Materials/WaterStreamParticle.mat
+  uploadId: 680908
