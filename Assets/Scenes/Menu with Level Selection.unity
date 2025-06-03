@@ -15208,6 +15208,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: ApiConfig
       objectReference: {fileID: 0}
+    - target: {fileID: 1476910405130551300, guid: 2f81c98835d08c34680937f4f3bd382f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6687371241286146443, guid: 2f81c98835d08c34680937f4f3bd382f,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6687371241286146443, guid: 2f81c98835d08c34680937f4f3bd382f,
+        type: 3}
+      propertyPath: serverURL
+      value: https://api.cybershoot.io
+      objectReference: {fileID: 0}
     - target: {fileID: 8415457050406740493, guid: 2f81c98835d08c34680937f4f3bd382f,
         type: 3}
       propertyPath: m_LocalPosition.x
